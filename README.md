@@ -1,1 +1,2 @@
-# Myntra-Clone
+Myntra-Clone:-
+A Myntra clone built using HTML, CSS, and JavaScript is a web-based application that mimics the user interface and experience of the Myntra fashion e-commerce platform. It features responsive design with HTML for structure, CSS for styling and layout, and JavaScript for interactive elements like product filtering, search functionality, dynamic content loading, and user interface animations. This clone allows users to browse product categories, view detailed product pages, add items to a cart, and proceed through a simulated checkout process, all within a stylish and user-friendly interface.
